@@ -1,0 +1,6 @@
+{ "extends": ["stylelint-config-standard"],
+"rules": {
+    "comment-empty-line-before": "always",
+    "comment-no-empty": true,
+    "comment-whitespace-inside": "always"
+  } }
